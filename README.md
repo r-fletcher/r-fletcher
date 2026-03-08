@@ -3,19 +3,20 @@
 I'm a computer science student working on some small projects.
 
 ### About Me
-- :mortar_board: Studying BSc Computer Science at WITS - 3rd year
+- 🎓 Studying BSc Computer Science at WITS - 3rd year
+    - [![Student GitHub](https://img.shields.io/badge/Student%20GitHub-005000?style=flat&logo=github)](https://github.com/r-fletcher-student) 
 - 🌱 Currently learning about web development, parallel computing, machine learning
 - 💻 Interested in Machine Learning and Software Development
 - 📍 Based in Johannesburg, South Africa
 
-### Languages I'm Working With
-- Python, Pandas, Scikit Learn and NumPy
+### Tech I'm Working With
+- Python, Pandas, and NumPy
 - Java
 - Javascript, HTML and CSS
 - C and OpenMP
 - C++
 
-### Connect With Me
+### Contact Me
 - 📧 Email: <fletcher.ryj@gmail.com>
 
 ---
