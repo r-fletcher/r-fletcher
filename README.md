@@ -10,9 +10,9 @@ I'm a computer science student working on some small projects.
 - 📍 Based in Johannesburg, South Africa
 
 ### Tech I'm Working With
+- Javascript, HTML and CSS
 - Python, Pandas, and NumPy
 - Java
-- Javascript, HTML and CSS
 - Node.js and Express
 - C and OpenMP
 - C++
