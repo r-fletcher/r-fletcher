@@ -13,7 +13,7 @@ I'm a computer science student working on some small projects.
 - Javascript, HTML and CSS
 - Python, Pandas, and NumPy
 - Java
-- Node.js and Express
+- MongoDB, Express, React and Node.js
 - C and OpenMP
 - C++
 
